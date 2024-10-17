@@ -28,9 +28,8 @@ Open the project in NetBeans.
 
 Set up the MySQL database:
 
-   Create a database named atm_simulator.
-   Import the SQL schema provided in the database folder (if available).
-   Configure the database connection in your project:
+Create a database named "(anything you want)".
+Configure the database connection in your project:
 
 Update the database connection details in the code as per your MySQL setup.
 Run the project in NetBeans.
